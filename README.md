@@ -1,10 +1,1 @@
-```
-          _ ._  _ , _ ._
-        (_ ' ( `  )_  .__)
-      ( (  (    )   `)  ) _)
-     (__ (_   (_ . _) _) ,__)
-         `~~`\ ' . /`~~`
-              ;   ;
-              /   \
-_____________/_ __ \_____________
-```
+I’m a creative, enthusiastic, and competitive developer. With a strong foundation in software engineering and a passion for machine learning and music tech, I bring technical versatility, leadership, and a drive to turn bold ideas into reliable, scalable solutions. \textit{Learn fast hard things} - Cal Newport
