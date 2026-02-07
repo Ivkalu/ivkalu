@@ -1,4 +1,7 @@
-I’m a creative, enthusiastic, and competitive developer. With a strong foundation in software engineering and a passion for machine learning and music tech, I bring technical versatility, leadership, and a drive to turn bold ideas into reliable, scalable solutions. *Learn fast hard things* - Cal Newport
+I am AI enthusiasts, who believes agentic AI will change the world.
+I also listen to robotic music.
+- First War Agains Robots : 2060.
+
 
 [Download my resume](https://github.com/Ivkalu/ivkalu/raw/master/Luka%20Ivankovi%C4%87.pdf)
 
