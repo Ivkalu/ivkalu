@@ -5,4 +5,4 @@ I also listen to robotic music.
 
 [Download my resume](https://github.com/Ivkalu/ivkalu/raw/master/Luka%20Ivankovi%C4%87.pdf)
 
-[Learn more about me on my Porfolio](https://ivkalu.github.io/)
+[Learn more about me](https://ivkalu.github.io/)
