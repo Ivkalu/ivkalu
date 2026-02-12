@@ -3,6 +3,6 @@ I also listen to robotic music.
 - First War Agains Robots : 2060.
 
 
-[Download my resume](https://github.com/Ivkalu/ivkalu/raw/master/Luka%20Ivankovi%C4%87.pdf)
+[Download my resume](https://github.com/Ivkalu/ivkalu.github.io/blob/master/docs/Luka%20Ivankovi%C4%87.pdf)
 
 [Learn more about me](https://ivkalu.github.io/)
