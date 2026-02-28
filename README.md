@@ -5,10 +5,11 @@ I also listen to robotic music.
 
 [Download my resume](https://github.com/Ivkalu/ivkalu.github.io/raw/master/docs/Luka%20Ivankovi%C4%87.pdf)
 
-[Learn more about me](https://ivkalu.github.io/)
+[Learn more about me](https://ivkalu.com)
 
-[Pdf Reconstructor](https://pdf.ivkalu.com)
+My projects:
+- [Pdf Reconstructor](https://pdf.ivkalu.com)
 
-[Audio Splitter](https://app.ivkalu.com)
+- [Audio Splitter](https://app.ivkalu.com)
 
-[DnD Campaign Agent](https://dnd.ivkalu.com)
+- [DnD Campaign Agent](https://dnd.ivkalu.com)
